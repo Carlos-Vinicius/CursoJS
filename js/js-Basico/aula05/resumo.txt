@@ -1,0 +1,13 @@
+O que aprendemos nessa aula:
+
+While;
+
+Break;
+
+Usando o Debbuger do VS Cde;
+
+Entendendo o fluxo de execução do código;
+
+configurando o debbuger do VSCode;
+
+For Loop;

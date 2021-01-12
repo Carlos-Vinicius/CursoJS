@@ -1,0 +1,150 @@
+O que aprendemos nessa aula:
+
+Criando classes
+O que são atributos
+Instâcia/Objeto
+Operador new
+
+this serve para indicar o a conta ou o que vc esta mexendo no momento
+
+O que aprendemos nessa aula:
+Criação de métodos
+Palavra chave this
+Encapsulamento
+Proposta de atributos privados
+return e early return
+
+
+Em Javascript os tipos primitivos são:
+
+String (texto)
+Number (número)
+Boolean
+Null
+undefined
+Symbol
+
+O que aprendemos nessa aula:
+
+Package.json
+
+Modules
+
+import/export
+
+Quais as vantagens de ter um código onde usamos classes e composição ao invés de tipos primitivos
+
+Tipos de valor e tipos de referência
+
+Alterando dinamicamente um objeto
+
+///###---Aula 04 acessando atributos privados---###///
+
+se vc nao colocar nada qnd instancia um obj por padrao ele vem undefined caso contrario,
+para vc separar um valor nulo so colocar null
+
+O que aprendemos nessa aula:
+
+Diferenças entre null e undefined
+
+Aprofundando nos conceitos de referências a um espaço de memória
+
+Get e Set
+
+Melhor encapsulamento da classe
+
+Protegendo atributos sensíveis
+
+##### Construtores e estáticos #####
+
+O que aprendemos nessa aula:
+
+Construtores
+
+encapsulamento
+
+atributos "readonly"
+
+Atributos estáticos -->
+ex:
+O _totalJogadores deveria estar como estático, assim, sempre que fosse criado um novo objeto do tipo Jogador, não seria criado um novo total, mantendo o valor correto.
+Correta! A declaração correta deste campo é static _totalJogadores;.
+
+
+#######---Conhecendo o problema do cliente----##############
+
+O que aprendemos nessa aula:
+
+Relembramos conceitos de classe, Propriedades,
+Boas práticas na hora de declarar atributos
+Declarando sempre as propriedades como sendo privadas inicialmente
+Problemas de duplicação de código
+Problemas de código extremamente compartilhado
+
+
+***######--Heranca--#####****
+
+a heranca é algo que vc precisa entender se vc precisa sobrescrever um metodo
+é so colocar o metodo caso queira deixar normal é so chamar o metodo super();
+
+O que aprendemos nessa aula:
+
+Especializando código
+Herdando propriedades e atributos
+Sobrecarga de métodos
+Compartilhando código de forma segura
+Mantendo nosso código na linguagem do cliente
+Evitando código muito complicado através da herança
+Palavra-chave Super
+Método e propriedades privadas e protegidas
+
+
+ /////--- 03-- classes abstrata ----////
+
+classe abstrata nunca pode ser instanciada so serve para ser herdada
+ nunca pode dar um new nela
+
+O que aprendemos nessa aula:
+
+Como o JS sabe quem está sendo instanciado.
+
+Pesando na proteção do nosso sistema
+
+Lançando erros para o sistema
+
+Classes abstratas
+
+Métodos abstratos
+
+Erros em tempo de execução
+
+
+------####--04-Sistema-interno-####----------
+
+Polimorfismo
+
+Revisão de herança,boas práticas de código e encapsulamento
+
+Polimorfismo
+
+Métodos estáticos
+
+Maneiras de tratar objetos de diferentes tipos de maneira parecida
+
+
+-----******--05. Interfaces e Duck Type--******-----
+
+O que aprendemos nessa aula:
+
+operador in
+
+operador instanceOf
+
+Como proteger nossos sistemas
+
+interfaces padronizadas
+
+Ducky Type
+
+
+o mais importante do js é o encapsulamento e o Polimorfismo

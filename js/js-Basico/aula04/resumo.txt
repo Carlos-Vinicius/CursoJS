@@ -1,0 +1,22 @@
+Utilizamos os operadores lógicos = e >, mas existem diversas possibilidades de configuração:
+
+>18
+>18
+<=18
+>18
+==18
+
+Ctrl + Shift + i --> identa o cod no vs
+
+
+O que aprendemos nessa aula:
+
+If e Else
+
+Operadores lógicos
+
+if encadeado
+
+else if
+
+&& e ||

@@ -1,0 +1,13 @@
+1 ---/////--Exibindo dados dinamicamente com Javascript--////----
+
+
+Uma expressão arrow function possui uma sintaxe mais curta
+ quando comparada a uma expressão de função
+
+ O que aprendemos nessa aula:
+
+Iterar um objeto com método forEach()
+Exibir dados dinamicamente com JavaScript
+Funcionamento do cliente-servidor
+
+2 --// Consumindo dados da api
